@@ -1,6 +1,0 @@
-www
-mail
-ftp
-admin
-blog
-test
