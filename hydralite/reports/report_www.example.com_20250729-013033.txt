@@ -1,0 +1,19 @@
+[LIVE] http://www.example.com
+
+[WHATWEB]
+
+
+[NMAP]
+TML5[0m, [1mIP[0m[[0m[22m2405:200:1631:1731::312c:780b[0m], [1mTitle[0m[[1m[33mExample Domain[0m]
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-07-29 01:30 +0530
+Nmap scan report for www.example.com (104.90.6.176)
+Host is up (0.017s latency).
+Other addresses for www.example.com (not scanned): 104.90.6.128 2405:200:1631:1731::312c:780b
+rDNS record for 104.90.6.176: a104-90-6-176.deploy.static.akamaitechnologies.com
+Not shown: 997 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+53/tcp  closed domain
+80/tcp  open   http
+443/tcp open   https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.92 seconds
